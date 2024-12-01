@@ -1,4 +1,4 @@
-# clothing_app
+# MIS First lab
 
 MIS first lab
 
